@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://tacloban.gov.ph/wp-content/main/?site=<?php echo $BRANDS ?>">
+    href="https://tnol.co.id/wp-education/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
