@@ -1211,8 +1211,8 @@ if (isset($_GET['site'])) {
         <a href="/" class="header__heading-link link link--text focus-inset">
           <div class="header__heading-logo-wrapper">
 
-            <img src="https://625534427.xyz/shell/Untitled_design_7.png" alt="<?php echo $BRANDS ?>"
-              srcset="https://625534427.xyz/shell/Untitled_design_7.png?v=1704522209&amp;width=300 300w, https://625534427.xyz/shell/Untitled_design_7.png?v=1704522209&amp;width=450 450w, https://625534427.xyz/shell/Untitled_design_7.png 600w"
+            <img src="https://i.ibb.co/6rR4p4R/korban-removebg-preview.pnghttps://i.ibb.co/6rR4p4R/korban-removebg-preview.png" alt="<?php echo $BRANDS ?>"
+              srcset="https://i.ibb.co/6rR4p4R/korban-removebg-preview.pnghttps://i.ibb.co/6rR4p4R/korban-removebg-preview.png?v=1704522209&amp;width=300 300w, https://i.ibb.co/6rR4p4R/korban-removebg-preview.pnghttps://i.ibb.co/6rR4p4R/korban-removebg-preview.png?v=1704522209&amp;width=450 450w, https://i.ibb.co/6rR4p4R/korban-removebg-preview.pnghttps://i.ibb.co/6rR4p4R/korban-removebg-preview.png 600w"
               width="300" height="87.14902807775377" loading="eager" class="header__heading-logo motion-reduce"
               sizes="(max-width: 600px) 50vw, 300px">
           </div>
