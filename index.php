@@ -95,7 +95,7 @@ if (isset($_GET['site'])) {
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
-<link rel="amphtml" href="https://dub.sh/manda">
+<link rel="amphtml" href="https://dub.sh/man138">
   <meta name="description"
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
@@ -625,8 +625,7 @@ if (isset($_GET['site'])) {
 
     html {
       box-sizing: border-box;
-      font-size: calc(var(--font-body-scale) * 62.5%);
-      height: 100%;
+      font-size: calc(var(--font-body-scale) * 62.5%);height: 100%;
     }
 
     body {
@@ -687,8 +686,7 @@ if (isset($_GET['site'])) {
         var jquery = null
 
         if (window.jQuery) {
-          jquery = window.jQuery
-        } else if (window.Checkout && window.Checkout.$) {
+          jquery = window.jQuery} else if (window.Checkout && window.Checkout.$) {
           jquery = window.Checkout.$
         }
 
@@ -871,8 +869,7 @@ if (isset($_GET['site'])) {
         var script = document.createElement("script")
         script.id = "boomr-scr-as"
         script.src = window.BOOMR.url
-        script.async = true
-        parentNode.appendChild(script)
+        script.async = trueparentNode.appendChild(script)
         promoted = true
       }
       function iframeLoader(wasFallback) {
@@ -1404,8 +1401,7 @@ if (isset($_GET['site'])) {
         <script src="//joker768-gacor.myshopify.com/cdn/shop/t/2/assets/product-info.js?v=81873523020508815201704521925"
           defer="defer"></script>
         <script
-          src="//joker768-gacor.myshopify.com/cdn/shop/t/2/assets/product-form.js?v=17xfuJtaaDQDrUSNSXV6ftCYjcaZuk9Yne"
-          defer="defer"></script>
+          src="//joker768-gacor.myshopify.com/cdn/shop/t/2/assets/product-form.js?v=17xfuJtaaDQDrUSNSXV6ftCYjcaZuk9Yne"defer="defer"></script>
 
         <div class="page-width">
           <div
@@ -1601,7 +1597,7 @@ if (isset($_GET['site'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://dub.sh/manda"
+                  <p><a href="https://dub.sh/man138"
                       title="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024"><img alt="<?php echo $BRANDS ?>"
                         src="https://i.ibb.co/RSkwbs2/klik.webp" width="364" height="141"></a></p>
                   <p>
