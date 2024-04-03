@@ -7,7 +7,7 @@ function indexPage()
   echo "<html class='no-js' lang='en'>";
   echo "<head>";
   echo "<meta charset='utf-8'>";
-  echo "<title>Welcome to My Website</title>";
+  echo "<title>Welcome to My Website - SEOHACKER</title>";
   // You can include additional meta tags, stylesheets, scripts, etc. here
   echo "</head>";
   echo "<body>";
