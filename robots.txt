@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:
+Sitemap:https://mitrabaktiut.co.id/-/sitemap.xml
