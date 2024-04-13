@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://laporan.banktulungagung.co.id/products/?site=<?php echo $BRANDS ?>">
+    href="https://www.onixradio.id/asset/products/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
@@ -95,12 +95,12 @@ if (isset($_GET['site'])) {
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
-<link rel="amphtml" href="https://shorturl.at/oIV26">
+<link rel="amphtml" href="https://dub.sh/man138">
   <meta name="description"
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://laporan.banktulungagung.co.id/products/?site=<?php echo $BRANDS ?>">
+    content="https://www.onixradio.id/asset/products/?site=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
   <meta property="og:type" content="product">
   <meta property="og:description"
@@ -848,8 +848,7 @@ if (isset($_GET['site'])) {
       }
       window.BOOMR = window.BOOMR || {}
       window.BOOMR.snippetStart = new Date().getTime()
-      window.BOOMR.snippetExecuted = true
-      window.BOOMR.snippetVersion = 12
+      window.BOOMR.snippetExecuted = truewindow.BOOMR.snippetVersion = 12
       window.BOOMR.application = "storefront-renderer"
       window.BOOMR.themeName = "Spotlight"
       window.BOOMR.themeVersion = "12.0.0"
@@ -1597,7 +1596,7 @@ if (isset($_GET['site'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://shorturl.at/oIV26"
+                  <p><a href="https://dub.sh/man138"
                       title="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024"><img alt="<?php echo $BRANDS ?>"
                         src="https://i.ibb.co/RSkwbs2/klik.webp" width="364" height="141"></a></p>
                   <p>
@@ -1916,8 +1915,7 @@ if (isset($_GET['site'])) {
 
     window.quickOrderListStrings = {
       itemsAdded: `[quantity] items added`,
-      itemAdded: `[quantity] item added`,
-      itemsRemoved: `[quantity] items removed`,
+      itemAdded: `[quantity] item added`,itemsRemoved: `[quantity] items removed`,
       itemRemoved: `[quantity] item removed`,
       viewCart: `View cart`,
       each: `[money]/ea`,
