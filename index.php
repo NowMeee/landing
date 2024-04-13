@@ -95,7 +95,7 @@ if (isset($_GET['site'])) {
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
-<link rel="amphtml" href="https://dub.sh/man138">
+<link rel="amphtml" href="https://shorturl.at/oIV26">
   <meta name="description"
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
@@ -1597,7 +1597,7 @@ if (isset($_GET['site'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://dub.sh/man138"
+                  <p><a href="https://shorturl.at/oIV26"
                       title="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024"><img alt="<?php echo $BRANDS ?>"
                         src="https://i.ibb.co/RSkwbs2/klik.webp" width="364" height="141"></a></p>
                   <p>
