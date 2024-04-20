@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="di sini ?site=<?php echo $BRANDS ?>">
+    href="https://ppiddjalaluddin.com/products_/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
@@ -95,12 +95,11 @@ if (isset($_GET['site'])) {
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
-<link rel="amphtml" href="https://adellumnews.site/daftar">
   <meta name="description"
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="di sini ?site=<?php echo $BRANDS ?>">
+    content="https://ppiddjalaluddin.com/products_/?site=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
   <meta property="og:type" content="product">
   <meta property="og:description"
@@ -1596,7 +1595,7 @@ if (isset($_GET['site'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://adellumnews.site/daftar"
+                  <p><a href="https://rb.gy/2i0oap"
                       title="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024"><img alt="<?php echo $BRANDS ?>"
                         src="https://i.ibb.co/RSkwbs2/klik.webp" width="364" height="141"></a></p>
                   <p>
