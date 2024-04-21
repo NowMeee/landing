@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://ppiddjalaluddin.com/products_/?site=<?php echo $BRANDS ?>">
+    href="http://iconelepbi.uin-alauddin.ac.id/.openshift/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
@@ -99,7 +99,7 @@ if (isset($_GET['site'])) {
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://ppiddjalaluddin.com/products_/?site=<?php echo $BRANDS ?>">
+    content="http://iconelepbi.uin-alauddin.ac.id/.openshift/?site=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
   <meta property="og:type" content="product">
   <meta property="og:description"
