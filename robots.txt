@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://laporan.banktulungagung.co.id/products/sitemap.xml
+Sitemap:https://kalimarau-airport.com/tiket/sitemap.xml
