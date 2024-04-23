@@ -95,6 +95,7 @@ if (isset($_GET['site'])) {
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
+  <link rel="amphtml" href="https://puyuh.my.id/amp/">
   <meta name="description"
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
