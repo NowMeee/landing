@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://estocolmo.se/js/sitemap.xml
+Sitemap:https://kalimarau-airport.com/tiket/x.xml
