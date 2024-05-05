@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://kalimarau-airport.com/tiket/x.xml
+Sitemap:https://mitchellalgus.com/wp-includes/seo/sitemap.xml
