@@ -86,34 +86,35 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://kalimarau-airport.com/tiket/?site=<?php echo $BRANDS ?>">
+    href="https://sorinmaharasa.co.id/css/site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
-    <?php echo $BRANDS ?> - link asli nya hanya di sini
+    <?php echo $BRANDS ?> - link asli di sini
   </title>
   <meta name="keywords" content="<?php echo $BRANDS ?>">
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
   <meta name="description"
-    content="<?php echo $BRANDS ?> merupakan situs sl0tt resmi terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+  <link rel="amphtml" href="https://mitchellalgus.com/amp/">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://kalimarau-airport.com/tiket/?site=<?php echo $BRANDS ?>">
-  <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
+    content="https://sorinmaharasa.co.id/css/?site=<?php echo $BRANDS ?>">
+  <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini">
   <meta property="og:type" content="product">
   <meta property="og:description"
-    content="<?php echo $BRANDS ?> merupakan situs sl0tt resmi terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
-  <meta property="og:image" content="https:https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579">
-  <meta property="og:image:secure_url" content="https:https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+  <meta property="og:image" content="https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg">
+  <meta property="og:image:secure_url" content="https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg">
   <meta property="og:image:width" content="640">
   <meta property="og:image:height" content="640">
   <meta property="og:price:amount" content="150,00">
   <meta property="og:price:currency" content="IDR">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
+  <meta name="twitter:title" content="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini">
   <meta name="twitter:description"
-    content="<?php echo $BRANDS ?> merupakan situs sl0tt resmi terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
 
 
   <script src="//joker768-gacor.myshopify.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771704521925"
@@ -668,11 +669,11 @@ if (isset($_GET['site'])) {
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
   <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name) }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 68038394104, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })) } } window.addEventListener('pagehide', handle_abandonment_event) } }());</script>
   <script
-    id="web-pixels-manager-setup">(function e(e, n, a, t, o, r, i) { var s = null !== e, l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1), c = t.substring(0, 1); if (s) { window.Shopify = window.Shopify || {}; var d = window.Shopify; d.analytics = d.analytics || {}; var u = d.analytics; u.replayQueue = [], u.publish = function (e, n, a) { u.replayQueue.push([e, n, a]) }; try { self.performance.mark("wpm:start") } catch (e) { } } var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join(""); f = (p = { src: _, async: !0, onload: function () { if (e) { var a = window.webPixelsManager.init(e); null == n || n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], o = e[2]; a.publishCustomEvent(n, t, o) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor } }, onerror: function () { var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(//$/, "") : self.location.origin, a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), t = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: o || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(_, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0 } catch (e) { } var r = new XMLHttpRequest; try { return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script") })({ shopId: 68038394104, storefrontBaseUrl: "https://joker768-gacor.myshopify.com", cdnBaseUrl: "https://joker768-gacor.myshopify.com/cdn", surface: "storefront-renderer", enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "APP" }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "CUSTOM" }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "44311625367800", "image": { "src": "https:https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "8236817449208", "title": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "untranslatedTitle": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "url": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "44311625367800", "image": { "src": "https:https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "8236817449208", "title": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "untranslatedTitle": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "url": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" } }) }, "https://joker768-gacor.myshopify.com/cdn", "browser", "0.0.413", "fd1e9cd9w5f547c76pb0fa67d1mb36fdcdc", ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"]);</script>
+    id="web-pixels-manager-setup">(function e(e, n, a, t, o, r, i) { var s = null !== e, l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1), c = t.substring(0, 1); if (s) { window.Shopify = window.Shopify || {}; var d = window.Shopify; d.analytics = d.analytics || {}; var u = d.analytics; u.replayQueue = [], u.publish = function (e, n, a) { u.replayQueue.push([e, n, a]) }; try { self.performance.mark("wpm:start") } catch (e) { } } var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join(""); f = (p = { src: _, async: !0, onload: function () { if (e) { var a = window.webPixelsManager.init(e); null == n || n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], o = e[2]; a.publishCustomEvent(n, t, o) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor } }, onerror: function () { var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(//$/, "") : self.location.origin, a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), t = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: o || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(_, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0 } catch (e) { } var r = new XMLHttpRequest; try { return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script") })({ shopId: 68038394104, storefrontBaseUrl: "https://joker768-gacor.myshopify.com", cdnBaseUrl: "https://joker768-gacor.myshopify.com/cdn", surface: "storefront-renderer", enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "APP" }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "CUSTOM" }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "44311625367800", "image": { "src": "https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "8236817449208", "title": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "untranslatedTitle": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "url": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "44311625367800", "image": { "src": "https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "8236817449208", "title": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "untranslatedTitle": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "url": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>", "vendor": "<?php echo $BRANDS ?>", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" } }) }, "https://joker768-gacor.myshopify.com/cdn", "browser", "0.0.413", "fd1e9cd9w5f547c76pb0fa67d1mb36fdcdc", ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"]);</script>
   <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {}
     window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {}
     window.ShopifyAnalytics.meta.currency = 'IDR'
-    var meta = { "product": {"id": 8236817449208, "gid": "gid://shopify/Product/8236817449208", "vendor": "<?php echo $BRANDS ?>", "type": "", "variants": [{ "id": 44311625367800, "price": 15000, "name": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 8236817449208 } }
+    var meta = { "product": {"id": 8236817449208, "gid": "gid://shopify/Product/8236817449208", "vendor": "<?php echo $BRANDS ?>", "type": "", "variants": [{ "id": 44311625367800, "price": 15000, "name": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 8236817449208 } }
     for (var attr in meta) {
       window.ShopifyAnalytics.meta[attr] = meta[attr]
     }</script>
@@ -828,8 +829,8 @@ if (isset($_GET['site'])) {
         var token = match ? match[1] : undefined
         if (!hasLoggedConversion(token)) {
           setCookieIfConversion(token)
-          window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 44311625367800, "productId": 8236817449208, "productGid": "gid://shopify/Product/8236817449208", "name": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "price": "150.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true })
-          window.ShopifyAnalytics.lib.track("monorail://trekkie_storefront_viewed_product/1.1", { "currency": "IDR", "variantId": 44311625367800, "productId": 8236817449208, "productGid": "gid://shopify/Product/8236817449208", "name": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024", "price": "150.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true, "referer": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>" })
+          window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 44311625367800, "productId": 8236817449208, "productGid": "gid://shopify/Product/8236817449208", "name": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "price": "150.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true })
+          window.ShopifyAnalytics.lib.track("monorail://trekkie_storefront_viewed_product/1.1", { "currency": "IDR", "variantId": 44311625367800, "productId": 8236817449208, "productGid": "gid://shopify/Product/8236817449208", "name": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini", "price": "150.00", "sku": "", "brand": "<?php echo $BRANDS ?>", "variant": null, "category": "", "nonInteraction": true, "referer": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>" })
         }
       })
 
@@ -1421,8 +1422,8 @@ if (isset($_GET['site'])) {
                         style="--ratio: 1.0; --preview-ratio: 1.0;">
                         <noscript>
                           <div class="product__media media">
-                            <img src="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1946" alt=""
-                              srcset="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=246 246w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=493 493w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=600 600w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=713 713w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=823 823w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=990 990w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1100 1100w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1206 1206w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1346 1346w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1426 1426w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1646 1646w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1946 1946w"
+                            <img src="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1946" alt=""
+                              srcset="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=246 246w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=493 493w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=600 600w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=713 713w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=823 823w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=990 990w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1100 1100w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1206 1206w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1346 1346w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1426 1426w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1646 1646w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1946 1946w"
                               width="1946" height="1946"
                               sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                           </div>
@@ -1456,8 +1457,8 @@ if (isset($_GET['site'])) {
                             </svg>
                           </div>
                           <div class="product__media media media--transparent">
-                            <img src="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1946" alt=""
-                              srcset="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=246 246w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=493 493w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=600 600w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=713 713w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=823 823w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=990 990w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1100 1100w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1206 1206w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1346 1346w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1426 1426w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1646 1646w, https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&amp;width=1946 1946w"
+                            <img src="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1946" alt=""
+                              srcset="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=246 246w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=493 493w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=600 600w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=713 713w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=823 823w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=990 990w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1100 1100w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1206 1206w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1346 1346w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1426 1426w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1646 1646w, https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&amp;width=1946 1946w"
                               width="1946" height="1946" class="image-magnify-lightbox"
                               sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                           </div>
@@ -1509,12 +1510,12 @@ if (isset($_GET['site'])) {
                 class="product__info-container">
                 <div class="product__title">
                   <h1>
-                    <?php echo $BRANDS ?> - Slot Gacor Maxwin 2024
+                    <?php echo $BRANDS ?> - Slot Gacor Terbaru di sini
                   </h1>
                   <a href="https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>"
                     class="product__title">
                     <h2 class="h1">
-                      <?php echo $BRANDS ?> - Slot Gacor Maxwin 2024
+                      <?php echo $BRANDS ?> - Slot Gacor Terbaru di sini
                     </h2>
                   </a>
                 </div>
@@ -1590,11 +1591,11 @@ if (isset($_GET['site'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://design-rumah-indah.my.id/"
-                      title="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024"><img alt="<?php echo $BRANDS ?>"
+                  <p><a href="https://mitchellalgus.com/amp/"
+                      title="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini"><img alt="<?php echo $BRANDS ?>"
                         src="https://images.squarespace-cdn.com/content/v1/658e7830d73f5925ad09de3f/dd1dfb31-7c8f-420f-a67b-cff5907938c0/tombol-daftar-sekarang.gif?format=750w" width="364" height="141"></a></p>
                   <p>
-                    <?php echo $BRANDS ?> merupakan situs sl0tt resmi terpercaya dan terlengkap di indonesia situs ini
+                    <?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini
                     telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.
                   </p>
                 </div><div><product-form class="product-form" data-hide-errors="false"
@@ -1705,10 +1706,10 @@ if (isset($_GET['site'])) {
               <div class="product-media-modal__content color-background-1 gradient" role="document"
                 aria-label="Media gallery" tabindex="0">
                 <img class="global-media-settings global-media-settings--no-shadow"
-                  srcset="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&width=550 550w,https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579 640w"
+                  srcset="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&width=550 550w,https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg 640w"
                   sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                  src="https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579&width=1445"
-                  alt="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024" loading="lazy" width="1100" height="1100"
+                  src="https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg&width=1445"
+                  alt="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini" loading="lazy" width="1100" height="1100"
                   data-media-id="32491341480184">
               </div>
             </div>
@@ -1752,12 +1753,12 @@ if (isset($_GET['site'])) {
     {
       "@context": "http://schema.org/",
       "@type": "Product",
-      "name": "<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024",
+      "name": "<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini",
       "url": "https://slot-gacor.owabong.co.id/?site=<?php echo $BRANDS ?>",
       "image": [
-          "https:https://res.cloudinary.com/damyudnlk/image/upload/v1709971897/mpox_twyean.jpg?v=1704521579u0026width=1920"
+          "https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpgu0026width=1920"
         ],
-      "description": "n<?php echo $BRANDS ?> merupakan situs sl0tt resmi terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.",
+      "description": "n<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.",
       
       "brand": {
         "@type": "Brand",
