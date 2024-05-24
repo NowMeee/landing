@@ -89,14 +89,14 @@ if (isset($_GET['site'])) {
     href="https://sorinmaharasa.co.id/css/site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
-    <?php echo $BRANDS ?> - link asli di sini
+    <?php echo $BRANDS ?> - link asli di sini ya kak
   </title>
   <meta name="keywords" content="<?php echo $BRANDS ?>">
   <meta name="author" content="<?php echo $BRANDS ?>">
   <meta name="distribution" content="<?php echo $BRANDS ?>">
   <meta name="publisher" content="<?php echo $BRANDS ?>">
   <meta name="description"
-    content="<?php echo $BRANDS ?> merupakan slot gacor tergila terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <link rel="amphtml" href="https://mitchellalgus.com/amp/">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
@@ -104,7 +104,7 @@ if (isset($_GET['site'])) {
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini">
   <meta property="og:type" content="product">
   <meta property="og:description"
-    content="<?php echo $BRANDS ?> merupakan slot gacor tergila terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:image" content="https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg">
   <meta property="og:image:secure_url" content="https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpg">
   <meta property="og:image:width" content="640">
@@ -114,7 +114,7 @@ if (isset($_GET['site'])) {
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini">
   <meta name="twitter:description"
-    content="<?php echo $BRANDS ?> merupakan slot gacor tergila terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
+    content="<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
 
 
   <script src="//joker768-gacor.myshopify.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771704521925"
@@ -1595,7 +1595,7 @@ if (isset($_GET['site'])) {
                       title="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini"><img alt="<?php echo $BRANDS ?>"
                         src="https://images.squarespace-cdn.com/content/v1/658e7830d73f5925ad09de3f/dd1dfb31-7c8f-420f-a67b-cff5907938c0/tombol-daftar-sekarang.gif?format=750w" width="364" height="141"></a></p>
                   <p>
-                    <?php echo $BRANDS ?> merupakan slot gacor tergila terpercaya dan terlengkap di indonesia situs ini
+                    <?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini
                     telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.
                   </p>
                 </div><div><product-form class="product-form" data-hide-errors="false"
@@ -1758,7 +1758,7 @@ if (isset($_GET['site'])) {
       "image": [
           "https:https://i.pinimg.com/564x/60/c6/4a/60c64a4784b6ce83cecd552fbc1cf4dd.jpgu0026width=1920"
         ],
-      "description": "n<?php echo $BRANDS ?> merupakan slot gacor tergila terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.",
+      "description": "n<?php echo $BRANDS ?> merupakan slot gacor macau huaw terpercaya dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.",
       
       "brand": {
         "@type": "Brand",
