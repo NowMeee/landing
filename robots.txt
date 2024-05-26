@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://kalimarau-airport.com/tiket/sitemap.xml
+Sitemap:https://sman2klaten.sch.id/Database/sitemap.xml
