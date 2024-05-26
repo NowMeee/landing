@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://sman2klaten.sch.id/Database/sitemap.xml
+Sitemap: https://ponpesthursina.sch.id/santri_ponpes/sitemap.xml
