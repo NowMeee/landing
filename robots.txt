@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://smkn1cikulur.sch.id/-/sitemap.xml
+Sitemap: https://manbatam.sch.id/ppdb-batam/sitemap.xml
