@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://manbatam.sch.id/ppdb-batam/?site=<?php echo $BRANDS ?>">
+    href="https://ponpesthursina.sch.id/santri_ponpes/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli di sini ya masbroo
@@ -100,7 +100,7 @@ if (isset($_GET['site'])) {
   <link rel="amphtml" href="https://mitchellalgus.com/amp/">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://manbatam.sch.id/ppdb-batam/?site=<?php echo $BRANDS ?>">
+    content="https://ponpesthursina.sch.id/santri_ponpes/?site=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Terbaru di sini masbrooo">
   <meta property="og:type" content="product">
   <meta property="og:description"
