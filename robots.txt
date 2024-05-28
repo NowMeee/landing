@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://manbatam.sch.id/ppdb-batam/sitemap.xml
+Sitemap: https://ponpesthursina.sch.id/santri_ponpes/sitemap.xml
