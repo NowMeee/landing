@@ -12,7 +12,7 @@ function indexPage()
   echo "</head>";
   echo "<body>";
   echo "<h1>Welcome to My Website</h1>";
-  echo "<p>This is the index page of my website -seohacker.</p>";
+  echo "<p>This is the index page of my website - hseohacker.</p>";
   // You can add more content here, like links to other pages or sections of your site
   echo "</body>";
   echo "</html>";
