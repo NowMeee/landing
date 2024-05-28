@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ponpesthursina.sch.id/santri_ponpes/sitemap.xml
+Sitemap: https://wikaba.id/product/sitemap.xml
