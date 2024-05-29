@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://wikaba.id/product/sitemap.xml
+Sitemap: https://mtsn4jakarta.sch.id/nitip/sitemap.xml
